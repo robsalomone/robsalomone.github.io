@@ -7,10 +7,7 @@ main:
     url: /projects/ 
 
   - title: "Teaching"
-    url: /teaching/ 
-
-  - title: "Deep Probabilistic Models (Course)"
-    url: /dpm/    
+    url: /teaching/  
 
   - title: "Talks"
     url: /talks/       
