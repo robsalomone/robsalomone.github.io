@@ -9,19 +9,19 @@ author_profile: true
 Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
 This is an annual Winter School attended by graduate students, early career researchers, and people from industry.
 
-The content was quite well-received so I have made all the lecture slide and tutorial materials available here on this page for the general public who may also find it interesting. The material consists of approximately eight 50 minute lectures and two one-hour tutorials (practicals).  (with examples implemented in PyTorch and Pyro).
+The content was quite well-received so I have made all the lecture slide and tutorial materials available for the general public who may also find them interesting. The material consists of approximately eight 50 minute lectures and two one-hour tutorials (practicals).  (with examples implemented in PyTorch and Pyro).
 
-#### Lecture Slides
+### Lecture Slides
 
-Lecture 1: **Flow-Based Models** ([Slides](/pdf/L1_Flows.pdf)) 
+**Lecture 1**: Flow-Based Models([Slides](/pdf/L1_Flows.pdf)) 
 
-Lecture 2: **Generative Adversarial Networks and Stochastic Backpropagation** ([Slides](/pdf/L2_GAN.pdf)) 
+**Lecture 2**: Generative Adversarial Networks and Stochastic Backpropagation ([Slides](/pdf/L2_GAN.pdf)) 
 
-Lecture 3: **Graphical Models,  Deep Latent Variable Models, and Variational Learning** ([Slides](/pdf/L3_VL.pdf)) 
+**Lecture 3**: Graphical Models,  Deep Latent Variable Models, and Variational Learning ([Slides](/pdf/L3_VL.pdf)) 
 
-Lecture 4: **Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro** ([Slides](/pdf/L4_VAE.pdf)) 
+**Lecture 4**: Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro ([Slides](/pdf/L4_VAE.pdf)) 
 
-#### Tutorial Juptyer Notebooks
+### Tutorial Juptyer Notebooks
 
 [Tutorial 1](https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial1.ipynb) 
 
