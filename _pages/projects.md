@@ -7,7 +7,7 @@ author_profile: true
 
 Coming Soon.
 
-<details open></summary> Summary </summary>
+<details open></summary>TLDR</summary>
 
 Hello world! :)
 
