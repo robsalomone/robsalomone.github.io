@@ -14,12 +14,9 @@ redirect_from:
 * ACEMS Research Fellow (01/19 -10/ 20) --- UNSW Sydney</li>
 *  ACEMS Research Fellow (08/18 - 01 /19) [Short Contract] --- The University of Queensland</li>
 * PhD Candidate in Statistics (2015-2018) --- The University of Queensland.
-  * Thesis: <em>Advances in Monte Carlo Methodology |  </em>Advisor: Professor <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://people.smp.uq.edu.au/DirkKroese/" target="_blank" rel="noopener noreferrer">Dirk Kroese</a></span></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+  * Thesis: *Advances in Monte Carlo Methodology*
+
+
 <h1>Research Interests</h1>
 My research primarily surrounds fundamental aspects of methodology in Probabilistic Machine Learning and related fields.
 
