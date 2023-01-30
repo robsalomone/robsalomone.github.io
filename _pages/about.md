@@ -10,10 +10,10 @@ redirect_from:
 
 ## Professional History
 
-* Senior Research Fellow (03/22-Present) --- Queensland University of Technology (QUT), Centre for Data Science (School of Computer Science)
-* Research Fellow (11/20-03/22) --- Queensland University of Technology (QUT), Centre for Data Science (School of Mathematical Sciences)
-* ACEMS Research Fellow (01/19-10/20) --- UNSW Sydney
-* ACEMS Research Fellow (08/18-01/19) [Short Contract] --- The University of Queensland
+* **Senior Research Fellow** (03/22-Present) --- Queensland University of Technology (QUT), Centre for Data Science (School of Computer Science)
+* **Research Fellow** (11/20-03/22) --- Queensland University of Technology (QUT), Centre for Data Science (School of Mathematical Sciences)
+* **ACEMS Research Fellow** (01/19-10/20) --- UNSW Sydney
+* **ACEMS Research Fellow** (08/18-01/19) [Short Contract] --- The University of Queensland
 * PhD Candidate in Statistics (2015-2018) --- The University of Queensland.
   * Thesis: *Advances in Monte Carlo Methodology*
 
