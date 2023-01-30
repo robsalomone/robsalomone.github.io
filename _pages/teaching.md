@@ -9,17 +9,14 @@ author_profile: true
 Level: Graduate 
 
 
-Part I: **Flow Based Models** 
+Part I: **Flow Based Models** ([Slides](/pdf/L1_Flows.pdf)) 
 
-Part II: **Generative Adversarial Networks and Stochastic Backpropagation**
+Part II: **Generative Adversarial Networks and Stochastic Backpropagation** ([Slides](/pdf/L2_GAN.pdf)) 
 
-Part III: **Graphical Models,  Deep Latent Variable Models, and Variational Learning**
+Part III: **Graphical Models,  Deep Latent Variable Models, and Variational Learning** ([Slides](/pdf/L3_VL.pdf)) 
 
-Part IV: **Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro**
+Part IV: **Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro** ([Slides](/pdf/L4_VAE.pdf)) 
 
-### Tutorial 1 (Jupyter Notebook)
-
-### Tutorial 2 (Jupyter Notebook)
 
 ## Quantitative Methods in Science, Sem. 1, 2021
 Level: Undergraduate (First Year)
