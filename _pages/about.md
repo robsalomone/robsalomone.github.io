@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<ul>
- 	<li>Research Fellow (11/20-Present) --- Queensland University of Technology (QUT), Centre for Data Science</li>
- 	<li> ACEMS Research Fellow (01/19 -10/ 20) --- UNSW Sydney</li>
- 	<li> ACEMS Research Fellow (08/18 - 01 /19) [Short Contract] --- The University of Queensland</li>
- 	<li> PhD Candidate in Statistics (2015-2018) --- The University of Queensland.
-<ul>
- 	<li style="list-style-type: none;">
-<ul>
- 	<li>Thesis: <em>Advances in Monte Carlo Methodology |  </em>Advisor: Professor <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://people.smp.uq.edu.au/DirkKroese/" target="_blank" rel="noopener noreferrer">Dirk Kroese</a></span></li>
+## Professional Appointments 
+
+* Research Fellow (11/20-Present) --- Queensland University of Technology (QUT), Centre for Data Science</li>
+* ACEMS Research Fellow (01/19 -10/ 20) --- UNSW Sydney</li>
+*  ACEMS Research Fellow (08/18 - 01 /19) [Short Contract] --- The University of Queensland</li>
+* PhD Candidate in Statistics (2015-2018) --- The University of Queensland.
+  * Thesis: <em>Advances in Monte Carlo Methodology |  </em>Advisor: Professor <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://people.smp.uq.edu.au/DirkKroese/" target="_blank" rel="noopener noreferrer">Dirk Kroese</a></span></li>
 </ul>
 </li>
 </ul>
@@ -29,7 +27,6 @@ I am also interested in the application and development of extensions of such ad
 
 Some topics I have worked/published/am working on: <em>Monte Carlo Methods</em>, <em>Deep Generative Models</em>, <em>Bayesian Statistics</em>, <em>Variational Inference</em>, <em>Representation Learning</em>, <em>Federated Learning</em> &amp;<em> Privacy Enhancing Technologies</em>, <em>Time Series Analysis</em>, <em>Kernel Methods</em>, <em>Variance Reduction</em>, <em>Likelihood-Free Models</em>, <em>Particle Filters</em>, and <em>Rare-Event Simulation</em>.
 
-To find out a little bit more about some of my interests, feel free to have a look at the course content for my <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://robsalomone.com/course-deep-probabilistic-models/">AMSI Winter School 2021 course on Deep Probabalistic Models. </a></span>
 <h1>Research Output</h1>
 <h3>Publications</h3>
 Davies, L., <strong>Salomone, R.</strong>, Sutton, S., and Drovandi, C. (2023), <em>Transport Reversible Jump Proposals</em>. 26th International Conference on Artificial Intelligence and Statistics (<span style="color: #000080;"><strong>AISTATS)</strong></span>.  Accepted. [<em><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span></em><a href="https://arxiv.org/pdf/2210.12572.pdf">]</a>
