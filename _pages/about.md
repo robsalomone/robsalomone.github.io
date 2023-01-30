@@ -22,4 +22,4 @@ My research primarily surrounds fundamental aspects of methodology in Probabilis
 
 I am also interested in the application and development of extensions of such advanced methods and techniques with the goal of solving complicated and interesting scientific problems and/or developing advanced artificial intelligence systems!
 
-Some topics I have worked/published/am working on: <em>Monte Carlo Methods</em>, <em>Deep Generative Models</em>, <em>Bayesian Statistics</em>, <em>Variational Inference</em>, <em>Representation Learning</em>, <em>Federated Learning</em> &amp;<em> Privacy Enhancing Technologies</em>, <em>Time Series Analysis</em>, <em>Kernel Methods</em>, <em>Variance Reduction</em>, <em>Likelihood-Free Models</em>, <em>Particle Filters</em>, and <em>Rare-Event Simulation</em>.
+Some topics I have worked/published/am working on: *Monte Carlo Methods*, *Deep Generative Models*, *Bayesian Statistics*, *Variational Inference*, *Representation Learning*, *Federated Learning* &amp;* Privacy Enhancing Technologies*, *Time Series Analysis*, *Kernel Methods*, *Variance Reduction*, *Likelihood-Free Models*, *Particle Filters*, and *Rare-Event Simulation*.
