@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Deep Probabilistic Models"
+permalink: /AMSIcourse/
 author_profile: true
 ---
 
-## AMSI Winter School, 2021
-Level: Graduate 
-
- **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
+## AMSI Winter School, 2021 
+Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
 This is an annual Winter School attended by graduate students, early career researchers, and people from industry.
 
 The content was quite well-received so I have made all the lecture slide and tutorial materials available here on this page for the general public who may also find it interesting. The material consists of approximately eight 50 minute lectures and two one-hour tutorials (practicals).  (with examples implemented in PyTorch and Pyro).
@@ -41,8 +39,3 @@ The material and delivery was very well recieved. Here are some replies from the
 > “Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”
 
 > "“Rob Salomone, what a mix of maths, teaching, jokes, energy and attitude.”" 
-
-## Quantitative Methods in Science, Sem. 1, 2021
-Level: Undergraduate (First Year)
-
-![](/images/RobVids2.png "Video Screenshot")
