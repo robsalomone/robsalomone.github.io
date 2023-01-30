@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### AMSI Winter School, 2021
+## AMSI Winter School, 2021
+Level: Graduate 
+
 
 Part I: **Flow Based Models** 
 
@@ -18,3 +20,8 @@ Part IV: **Amortized Variational Inference, Variational Autoencoders, and an Int
 ### Tutorial 1 (Jupyter Notebook)
 
 ### Tutorial 2 (Jupyter Notebook)
+
+## Quantitative Methods in Science, Sem. 1, 2021
+Level: Undergraduate (First Year)
+
+![](/images/RobVids2.png "Video Screenshot")
