@@ -4,7 +4,6 @@ title: "Deep Probabilistic Models"
 permalink: /AMSIcourse/
 author_profile: true
 ---
-
 <img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="400" align = "right"/>
 
 Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
