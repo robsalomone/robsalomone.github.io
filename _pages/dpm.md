@@ -16,19 +16,18 @@ The content was quite well-received so I have made all the lecture slide and tut
 **Lecture 1**: Flow-Based Models([Slides](/pdf/L1_Flows.pdf)) 
 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows1.png width="220"/>
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows2.png" width="220"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows1.png" width="350" />
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows2.png" width="350"/>
 
 **Lecture 2**: Generative Adversarial Networks and Stochastic Backpropagation ([Slides](/pdf/L2_GAN.pdf)) 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L2P1.png" width="220"/>
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L2P2.png" width="220"/>
-
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L2P1.png" width="350"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L2P2.png" width="350"/>
 
 **Lecture 3**: Graphical Models,  Deep Latent Variable Models, and Variational Learning ([Slides](/pdf/L3_VL.pdf)) 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P2.png" width="220"/>
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P1.png" width="220"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P2.png" width="350"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P1.png" width="350"/>
 
 **Lecture 4**: Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro ([Slides](/pdf/L4_VAE.pdf)) 
 

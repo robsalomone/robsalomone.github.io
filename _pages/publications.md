@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. 26th International Conference on Artificial Intelligence and Statistics (<span style="color: #000080;">**AISTATS)**</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf">]</a>
+Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. 26th International Conference on Artificial Intelligence and Statistics (<span style="color: #000080;">**AISTATS)**</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>]
 
 Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Jenner, A., Mayfield, H.J., McGree, J.M., Mengersen, K., Price, A., **Salomone, R**. <span style="color: #000080;font-size:80%">(corresponding author)</span>, Santos-Fernández, E., Vercelloni, E., and Wang, X. (2023), *Being Bayesian in the 2020s: opportunities and challenges in the practice of modern applied Bayesian statistics*.  <span style="color: #000080;">Philosophical Transactions of the Royal Society A. </span> Accepted. <span style="color: #800080;"><span style="color: #000000;">[</span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2211.10029.pdf">Preprint</a></span><span style="color: #000000;">]</span></span>
 
