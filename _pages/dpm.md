@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## AMSI Winter School, 2021 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="300" align = "right"/>
+<img src="L4P2.png" width="220" />
+
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="220" align = "right"/>
 
 Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
 This is an annual Winter School attended by graduate students, early career researchers, and people from industry.
@@ -18,24 +20,24 @@ The content was quite well-received so I have made all the lecture slide and tut
 **Lecture 1**: Flow-Based Models([Slides](/pdf/L1_Flows.pdf)) 
 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows1.png" width="300" />
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows1.png" width="220" />
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows2.png" width="300"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows2.png" width="220"/>
 
 **Lecture 2**: Generative Adversarial Networks and Stochastic Backpropagation ([Slides](/pdf/L2_GAN.pdf)) 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L2P1.png" width="300"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L2P1.png" width="220"/>
 
 
 **Lecture 3**: Graphical Models,  Deep Latent Variable Models, and Variational Learning ([Slides](/pdf/L3_VL.pdf)) 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P2.png" width="300"/>
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P1.png" width="300"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P2.png" width="220"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L3P1.png" width="220"/>
 
 **Lecture 4**: Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro ([Slides](/pdf/L4_VAE.pdf)) 
 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P1.png" width="300"/>
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="300"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P1.png" width="220"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="220"/>
 
 ## Tutorials (Jupyter Notebooks)
 
