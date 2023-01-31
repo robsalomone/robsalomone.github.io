@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.163">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Deep Probabilistic Models</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="dpm_files/libs/clipboard/clipboard.min.js"></script>
+<script src="dpm_files/libs/quarto-html/quarto.js"></script>
+<script src="dpm_files/libs/quarto-html/popper.min.js"></script>
+<script src="dpm_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="dpm_files/libs/quarto-html/anchor.min.js"></script>
+<link href="dpm_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="dpm_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="dpm_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="dpm_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="dpm_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Deep Probabilistic Models</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="amsi-winter-school-2021" class="level2">
+<h2 class="anchored" data-anchor-id="amsi-winter-school-2021">AMSI Winter School, 2021</h2>
+<p>Here are materials for a <strong>Deep Probabilistic Models</strong> mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. This is an annual Winter School attended by graduate students, early career researchers, and people from industry.</p>
+<p>The content was quite well-received so I have made all the lecture slide and tutorial materials available for the general public who may also find them interesting. The material consists of approximately eight 50 minute lectures and two one-hour tutorials (practicals). (with examples implemented in PyTorch and Pyro).</p>
+<section id="lecture-slides" class="level3">
+<h3 class="anchored" data-anchor-id="lecture-slides">Lecture Slides</h3>
+<p><strong>Lecture 1</strong>: Flow-Based Models(<a href="/pdf/L1_Flows.pdf">Slides</a>)</p>
+<p><img src="/images/Flows1.png" class="img-fluid"> <img src="/images/Flows2.png" class="img-fluid"> <strong>Lecture 2</strong>: Generative Adversarial Networks and Stochastic Backpropagation (<a href="/pdf/L2_GAN.pdf">Slides</a>)</p>
+<p><img src="/images/L2P1.png" class="img-fluid"> <img src="/images/L2P2.png" class="img-fluid"></p>
+<p><strong>Lecture 3</strong>: Graphical Models, Deep Latent Variable Models, and Variational Learning (<a href="/pdf/L3_VL.pdf">Slides</a>)</p>
+<p><strong>Lecture 4</strong>: Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro (<a href="/pdf/L4_VAE.pdf">Slides</a>)</p>
+</section>
+</section>
+<section id="tutorials-jupyter-notebooks" class="level2">
+<h2 class="anchored" data-anchor-id="tutorials-jupyter-notebooks">Tutorials (Jupyter Notebooks)</h2>
+<p><strong>Tutorial 1</strong>: <a href="https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial1.ipynb">Notebook</a></p>
+<p><strong>Tutorial 2</strong>: <a href="https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial2.ipynb">Notebook</a></p>
+<section id="feedback" class="level3">
+<h3 class="anchored" data-anchor-id="feedback">Feedback</h3>
+<p>The material and delivery was very well recieved. Here are some replies from the attendees (in response to a question regarding highlights of the Winter School as a whole):</p>
+<blockquote class="blockquote">
+<p>“I liked the presentations and the content by Robert Salomone as I found his explanation much better than the contents I have reviewed until now from the web source.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“My favourite speaker was Robert Salomone. Rob presented his take on deep latent variable models. He was masterful in linking together concepts between topics in his course”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>““Rob Salomone, what a mix of maths, teaching, jokes, energy and attitude.”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>“Rob Salomone was my favourite speaker because he had the best energy when presenting. He also provided astute mathematical and statistical insights into neural networks, and this is a topic that I was very interested to learn about. I also greatly enjoyed his tutorials, which were very practical.”</p>
+</blockquote>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

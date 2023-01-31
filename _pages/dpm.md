@@ -15,7 +15,12 @@ The content was quite well-received so I have made all the lecture slide and tut
 
 **Lecture 1**: Flow-Based Models([Slides](/pdf/L1_Flows.pdf)) 
 
+![](/images/Flows1.png)
+![](/images/Flows2.png)
 **Lecture 2**: Generative Adversarial Networks and Stochastic Backpropagation ([Slides](/pdf/L2_GAN.pdf)) 
+
+![](/images/L2P1.png)
+![](/images/L2P2.png)
 
 **Lecture 3**: Graphical Models,  Deep Latent Variable Models, and Variational Learning ([Slides](/pdf/L3_VL.pdf)) 
 
@@ -23,9 +28,11 @@ The content was quite well-received so I have made all the lecture slide and tut
 
 ## Tutorials (Jupyter Notebooks)
 
-**Tutotial 1**: [Notebook](https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial1.ipynb) 
+**Tutorial 1**: [Notebook](https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial1.ipynb) 
 
 **Tutorial 2**: [Notebook](https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial2.ipynb) 
+
+### Feedback
 
 The material and delivery was very well recieved. Here are some replies from the attendees (in response to a question regarding highlights of the Winter School as a whole): 
 
@@ -35,6 +42,6 @@ The material and delivery was very well recieved. Here are some replies from the
 
 > "“Rob Salomone, what a mix of maths, teaching, jokes, energy and attitude.”
 
->> “Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”
+> “Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”
 
 > “Rob Salomone was my favourite speaker because he had the best energy when presenting. He also provided astute mathematical and statistical insights into neural networks, and this is a topic that I was very interested to learn about. I also greatly enjoyed his tutorials, which were very practical."
