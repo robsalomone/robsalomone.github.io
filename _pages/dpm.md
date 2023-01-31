@@ -17,6 +17,7 @@ The content was quite well-received so I have made all the lecture slide and tut
 
 
 <img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows1.png" width="350" />
+
 <img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows2.png" width="350"/>
 
 **Lecture 2**: Generative Adversarial Networks and Stochastic Backpropagation ([Slides](/pdf/L2_GAN.pdf)) 
