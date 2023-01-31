@@ -5,18 +5,16 @@ permalink: /AMSIcourse/
 author_profile: true
 ---
 
-## AMSI Winter School, 2021 
-<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="500" align = "right"/>
+<img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="400" align = "right"/>
 
 Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
 This is an annual Winter School attended by graduate students, early career researchers, and people from industry.
 
 The content was quite well-received so I have made all the lecture slide and tutorial materials available for the general public who may also find them interesting. The material consists of approximately eight 50 minute lectures and two one-hour tutorials (practicals).  (with examples implemented in PyTorch and Pyro).
 
-### Lecture Slides
+## Lecture Slides
 
 **Lecture 1**: Flow-Based Models([Slides](/pdf/L1_Flows.pdf)) 
-
 
 <img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows1.png" width="250" />
 <img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/Flows2.png" width="250"/>
@@ -43,7 +41,7 @@ The content was quite well-received so I have made all the lecture slide and tut
 
 **Tutorial 2**: [Notebook](https://github.com/robsalomone/AMSIWinterSchool2021/blob/main/Tutorial2.ipynb) 
 
-### Feedback
+## Feedback
 
 The material and delivery was very well recieved. Here are some replies from the attendees (in response to a question regarding highlights of the Winter School as a whole): 
 
