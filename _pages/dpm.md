@@ -15,14 +15,20 @@ The content was quite well-received so I have made all the lecture slide and tut
 
 **Lecture 1**: Flow-Based Models([Slides](/pdf/L1_Flows.pdf)) 
 
-![](/images/Flows1.png)
-![](/images/Flows2.png)
+
+<img src="/images/Flows1.png" width="220"/>
+<img src="/images/Flows2.png" width="220"/>
+
 **Lecture 2**: Generative Adversarial Networks and Stochastic Backpropagation ([Slides](/pdf/L2_GAN.pdf)) 
 
-![](/images/L2P1.png)
-![](/images/L2P2.png)
+<img src="/images/L2P1.png" width="220"/>
+<img src="/images/L2P2.png" width="220"/>
+
 
 **Lecture 3**: Graphical Models,  Deep Latent Variable Models, and Variational Learning ([Slides](/pdf/L3_VL.pdf)) 
+
+<img src="/images/L3P2.png" width="220"/>
+<img src="/images/L3P1.png" width="220"/>
 
 **Lecture 4**: Amortized Variational Inference, Variational Autoencoders, and an Introduction to Pyro ([Slides](/pdf/L4_VAE.pdf)) 
 
@@ -45,3 +51,5 @@ The material and delivery was very well recieved. Here are some replies from the
 > “Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”
 
 > “Rob Salomone was my favourite speaker because he had the best energy when presenting. He also provided astute mathematical and statistical insights into neural networks, and this is a topic that I was very interested to learn about. I also greatly enjoyed his tutorials, which were very practical."
+
+> “Dr Robert Salomone is my favourite lecturer. His erudition and passion attracted me.”
