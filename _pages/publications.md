@@ -25,7 +25,7 @@ Laub, P.J.,** Salomone**, **R.**, Botev, Z.I. (2019), *Monte Carlo estimation o
 **Salomone, R.,** Vaisman, R., and Kroese, D.P. (2016). *Estimating the Number of Vertices in Convex Polytopes*. Proceedings of the <span style="color: #000080;">Annual International Conference on Operations Research and Statistics</span>, <span style="color: #000000;">ORS 2016</span>.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.dropbox.com/s/fo4zk1kxcnex69b/ORS_2016_Proceedings_Paper_15.pdf?dl=0">Read Online</a></span>]
 
 # Pipeline
-Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [arxiv](https://arxiv.org/pdf/2302.03314.pdf)
+Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [[arxiv]](https://arxiv.org/pdf/2302.03314.pdf)
 
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models.  *[Preprint Available Soon]
 
