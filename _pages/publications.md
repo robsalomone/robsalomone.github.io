@@ -27,7 +27,7 @@ Laub, P.J.,** Salomone**, **R.**, Botev, Z.I. (2019), *Monte Carlo estimation o
 # Pipeline
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv:2302.03314 </a></span>
 
-**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models.  *[Preprint Available Soon]
+**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models.  <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv:2302.03348</a></span>
 
 Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv: 2001.09266</a> </span> (Under Revision)
 
