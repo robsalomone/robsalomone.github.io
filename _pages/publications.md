@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Preprints
+## Preprints
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv:2302.03314 </a></span>
 
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*.  <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv:2302.03348</a></span>
@@ -16,11 +16,11 @@ Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel 
 
 Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voronoi cell-based model for tumour growth using approximate Bayesian computation*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2022/09/15/2022.09.13.507714.full.pdf">bioarXiv</a></span>
 
-# Publications
+## Publications
 
 Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. 26th International Conference on Artificial Intelligence and Statistics (<span style="color: #000080;">**AISTATS)**</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>]
 
-Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Jenner, A., Mayfield, H.J., McGree, J.M., Mengersen, K., Price, A., **Salomone, R**. <span style="color: #000080;font-size:80%">(corresponding author)</span>, Santos-Fernández, E., Vercelloni, E., and Wang, X. (2023), *Being Bayesian in the 2020s: opportunities and challenges in the practice of modern applied Bayesian statistics*.  <span style="color: #000080;">Philosophical Transactions of the Royal Society A. </span> Accepted. <span style="color: #800080;"><span style="color: #000000;">[</span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2211.10029.pdf">Preprint</a></span><span style="color: #000000;">]</span></span>
+Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Jenner, A., Mayfield, H.J., McGree, J.M., Mengersen, K., Price, A., **Salomone, R**., Santos-Fernández, E., Vercelloni, E., and Wang, X. (2023), *Being Bayesian in the 2020s: opportunities and challenges in the practice of modern applied Bayesian statistics*.  <span style="color: #000080;">Philosophical Transactions of the Royal Society A. </span> Accepted. <span style="color: #800080;"><span style="color: #000000;">[</span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2211.10029.pdf">Preprint</a></span><span style="color: #000000;">]</span></span>
 
 Villani, M., Quiroz, M., Kohn, R., and **Salomone, R.** (2022), *Spectral Subsampling MCMC for Stationary Multivariate Time Series with an Application to Vector ARTFIMA Processes*. <span style="color:#000080;">Econometrics and Statistics</span>. [<span style="color: #0000ff;"> <a style="color: #0000ff;" href="https://www.sciencedirect.com/science/article/pii/S245230622200106X?via%3Dihub">Read Online</a></span> ]
 
