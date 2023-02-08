@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## Preprints
-Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv:2302.03314 </a></span>]
+Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv</a></span>]
 
-**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv:2302.03348</a></span>]
+**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv</a></span>]
 
-Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv:2001.09266</a> </span>] 
+Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv</a> </span>] 
 
-**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P. , *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/1805.03924">arXiv:1805.03924 </a></span>]
+**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P. , *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/1805.03924">arXiv</a></span>]
 
 Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voronoi cell-based model for tumour growth using approximate Bayesian computation*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2022/09/15/2022.09.13.507714.full.pdf">bioarXiv</a></span>]
 
