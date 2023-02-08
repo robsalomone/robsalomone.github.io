@@ -1,9 +1,22 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Output"
 permalink: /publications/
 author_profile: true
 ---
+
+# Preprints
+Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv:2302.03314 </a></span>
+
+**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models.  <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv:2302.03348</a></span>
+
+Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv: 2001.09266</a> </span> 
+
+**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P. ,* Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/1805.03924">arXiv:1805.03924 </a></span>
+
+Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voronoi cell-based model for tumour growth using approximate Bayesian computation*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2022/09/15/2022.09.13.507714.full.pdf">bioarXiv</a></span>
+
+# Publications
 
 Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. 26th International Conference on Artificial Intelligence and Statistics (<span style="color: #000080;">**AISTATS)**</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>]
 
@@ -23,14 +36,3 @@ Botev, Z.I., **Salomone, R.**, Mackinlay, D. (2019), *Fast and accurate computat
 Laub, P.J.,** Salomone**, **R.**, Botev, Z.I. (2019), *Monte Carlo estimation of the density of the sum of dependent random variables*, <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.
 
 **Salomone, R.,** Vaisman, R., and Kroese, D.P. (2016). *Estimating the Number of Vertices in Convex Polytopes*. Proceedings of the <span style="color: #000080;">Annual International Conference on Operations Research and Statistics</span>, <span style="color: #000000;">ORS 2016</span>.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.dropbox.com/s/fo4zk1kxcnex69b/ORS_2016_Proceedings_Paper_15.pdf?dl=0">Read Online</a></span>]
-
-# Preprints
-Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv:2302.03314 </a></span>
-
-**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models.  <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv:2302.03348</a></span>
-
-Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv: 2001.09266</a> </span> 
-
-**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P. ,* Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/1805.03924">arXiv:1805.03924 </a></span>
-
-Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voronoi cell-based model for tumour growth using approximate Bayesian computation*. <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2022/09/15/2022.09.13.507714.full.pdf">bioarXiv</a></span>
