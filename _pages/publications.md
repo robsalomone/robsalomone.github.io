@@ -18,7 +18,7 @@ Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voron
 
 ## Publications
 
-Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. 26th International Conference on Artificial Intelligence and Statistics (<span style="color: #000080;">**AISTATS)**</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>]
+Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. <span style="color: #000080;">26th International Conference on Artificial Intelligence and Statistics (AISTATS)</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>]
 
 Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Jenner, A., Mayfield, H.J., McGree, J.M., Mengersen, K., Price, A., **Salomone, R**., Santos-Fernández, E., Vercelloni, E., and Wang, X. (2023), *Being Bayesian in the 2020s: opportunities and challenges in the practice of modern applied Bayesian statistics*.  <span style="color: #000080;">Philosophical Transactions of the Royal Society A. </span> Accepted. <span style="color: #800080;"><span style="color: #000000;">[</span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2211.10029.pdf">Preprint</a></span><span style="color: #000000;">]</span></span>
 
@@ -26,7 +26,7 @@ Villani, M., Quiroz, M., Kohn, R., and **Salomone, R.** (2022), *Spectral Subsam
 
 Sutton, M. , **Salomone, R.**, Chevallier, A., and Fearnhead, P. (2022), *Continuously-Tempered PDMP Samplers*.  <span style="color: #000080;">Neural Information Processing Systems</span> (<span style="color: #000080;">NeuRIPS</span>)<span style="color: #000080;">, 2022</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2205.09559.pdf">Preprint</a></span>]
 
-<span class="auto-style5">Hodgkinson, L., Salomone,R. and Roosta, F. (2021),  *Implicit Langevin Algorithms for Sampling From Log-concave Densities*, <span style="color: #000080;">Journal of Machine Learning Research</span> (<span style="color: #000080;">**JMLR**</span>) 22: 1-30. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://jmlr.org/papers/volume22/19-292/19-292.pdf">Read Online</a></span>]
+<span class="auto-style5">Hodgkinson, L., Salomone,R. and Roosta, F. (2021),  *Implicit Langevin Algorithms for Sampling From Log-concave Densities*, <span style="color: #000080;">Journal of Machine Learning Research</span> (<span style="color: #000080;">JMLR</span>) 22: 1-30. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://jmlr.org/papers/volume22/19-292/19-292.pdf">Read Online</a></span>]
 </span>
 
 **Salomone R.**, Quiroz, M., Kohn, R., Villani, M., and Tran, M.N. (2020), <i>Spectral Subsampling MCMC for  </i><i>Stationary Time Series,  </i>Proceedings of the <span style="color: #000080;">International Conference on Machine Learning</span> (<span style="color: #000080;">ICML</span>) <span style="color: #000080;">2020</span><i>. </i> [<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://proceedings.mlr.press/v119/salomone20a/salomone20a.pdf">Read Online</a></span>]
