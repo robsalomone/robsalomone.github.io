@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+ <font size="-1">
 
 ## Preprints
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv</a></span>]
@@ -36,3 +37,5 @@ Botev, Z.I., **Salomone, R.**, Mackinlay, D. (2019), *Fast and accurate computat
 Laub, P.J.,**Salomone, R.**, Botev, Z.I. (2019), *Monte Carlo estimation of the density of the sum of dependent random variables*, <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.
 
 **Salomone, R.,** Vaisman, R., and Kroese, D.P. (2016). *Estimating the Number of Vertices in Convex Polytopes*. Proceedings of the <span style="color: #000080;">Annual International Conference on Operations Research and Statistics</span>, <span style="color: #000000;">ORS 2016</span>.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.dropbox.com/s/fo4zk1kxcnex69b/ORS_2016_Proceedings_Paper_15.pdf?dl=0">Read Online</a></span>]
+
+</font>
