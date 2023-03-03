@@ -29,7 +29,7 @@ Villani, M., Quiroz, M., Kohn, R., and **Salomone, R.** (2022), *Spectral Subsam
 
 
 Hodgkinson, L., **Salomone, R.** ,  and Roosta, F. (2021),  *Implicit Langevin Algorithms for Sampling From Log-concave Densities*, <span style="color: #000080;">Journal of Machine Learning Research</span> (<span style="color: #000080;">JMLR</span>) 22: 1-30. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://jmlr.org/papers/volume22/19-292/19-292.pdf">Read Online</a></span>]
-</span>
+
 
 **Salomone R.**, Quiroz, M., Kohn, R., Villani, M., and Tran, M.N. (2020), <i>Spectral Subsampling MCMC for  </i><i>Stationary Time Series,  </i>Proceedings of the <span style="color: #000080;">International Conference on Machine Learning</span> (<span style="color: #000080;">ICML</span>) <span style="color: #000080;">2020</span><i>. </i> [<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://proceedings.mlr.press/v119/salomone20a/salomone20a.pdf">Read Online</a></span>]
 
