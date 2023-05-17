@@ -7,6 +7,8 @@ author_profile: true
 
 
 ## Preprints
+Buchhorn, Katie, Edgar Santos-Fernandez, Kerrie Mengersen, and Robert Salomone. *Graph Neural Network-Based Anomaly Detection for River Network Systems*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2304.09367.pdf">arXiv</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/KatieBuc/gnnad">Package</a></span>] 
+
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv</a></span>]
 
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv</a></span>]
