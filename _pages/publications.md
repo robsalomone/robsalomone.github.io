@@ -28,9 +28,6 @@ Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Je
 
 Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. <span style="color: #000080;">26th International Conference on Artificial Intelligence and Statistics (AISTATS)</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">arXiv</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/daviesl/trjp">code</a></span>]
 
-
-https://icml.cc/virtual/2020/poster/6744
-
 Sutton, M. , **Salomone, R.**, Chevallier, A., and Fearnhead, P. (2022), *Continuously-Tempered PDMP Samplers*.  <span style="color: #000080;">Neural Information Processing Systems</span> (<span style="color: #000080;">NeuRIPS</span>)<span style="color: #000080;">, 2022</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://openreview.net/pdf?id=RHa77BXv6k">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/53895.png?t=1669522892.1515965">poster</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="
 https://proceedings.neurips.cc/paper_files/paper/2022/file/b5b939436789f76f08b9d0da5e81af7c-Supplemental-Conference.zip">code</a></span>] 
 
