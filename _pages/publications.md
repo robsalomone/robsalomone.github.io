@@ -19,7 +19,7 @@ Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel 
 
 
 
-Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voronoi cell-based model for tumour growth using approximate Bayesian computation*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2022/09/15/2022.09.13.507714.full.pdf">bioarXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
+Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voronoi cell-based model for tumour growth using approximate Bayesian computation*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2022/09/15/2022.09.13.507714.full.pdf">bioarXiv</a></span>]
 
 
 
