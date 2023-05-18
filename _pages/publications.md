@@ -37,7 +37,10 @@ Hodgkinson, L., **Salomone, R.** ,  and Roosta, F. (2021),  *Implicit Langevin 
 
 Botev, Z.I., **Salomone, R.**, Mackinlay, D. (2019), *Fast and accurate computation of the distribution of sums of dependent log-normals*,  <span style="color: #000080;"> Annals of Operations Research</span> 280 (1), 19-46. [<a href="http://em.rdcu.be/wf/click?upn=lMZy1lernSJ7apc5DgYM8XPvDLtzxBOsgJ-2FnnYvoNXA-3D_2-2ByApDjSZoVqoI98JBevZxssm-2FD1Z8SDj3L6WtiRiwicw63AS-2FH8OWTqgRn0xyTuHBCWzk2l-2BVezvBaamD4eD1LocNz5y7JCSBi3NwjTPIJqACLrbskzKLrOfZVn8Dyvm84k6VUb-2Bt0HBhSfh5KTP2eGmAdOYqRVTVE4eBe2XcXl16q-2Fs7iXt13zJxw6OeQbyjdcqvVTjEvVsG0Fr6kmz4fOfXDyxzMWGqdpQwoY-2F0D8F8o8GZzCA29BxLo5gHh-2Fvfln6qYx0luQXGCY8KUTSw-3D-3D"><span style="color: #0000ff;">Read Online</span></a>]
 
-Laub, P.J.,**Salomone, R.**, Botev, Z.I. (2019), *Monte Carlo estimation of the density of the sum of dependent random variables*, <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.sciencedirect.com/science/article/pii/S0378475418303197">Read Online</a></span>]
+Laub, P.J.,**Salomone, R.**, Botev, Z.I. (2019), *Monte Carlo estimation of the density of the sum of dependent random variables*, <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.sciencedirect.com/science/article/pii/S0378475418303197">Read Online</a></span>] <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Pat-Laub/PushoutDensityEstimation">code</a></span>]
+
+
+
 
 **Salomone, R.,** Vaisman, R., and Kroese, D.P. (2016). *Estimating the Number of Vertices in Convex Polytopes*. Proceedings of the <span style="color: #000080;">Annual International Conference on Operations Research and Statistics</span>, <span style="color: #000000;">ORS 2016</span>.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.dropbox.com/s/fo4zk1kxcnex69b/ORS_2016_Proceedings_Paper_15.pdf?dl=0">Read Online</a></span>]
 
