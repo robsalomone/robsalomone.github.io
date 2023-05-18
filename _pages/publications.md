@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Preprints
-Buchhorn, Katie, Edgar Santos-Fernandez, Kerrie Mengersen, and **Robert Salomone**. *Graph Neural Network-Based Anomaly Detection for River Network Systems*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2304.09367.pdf">arXiv</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/KatieBuc/gnnad">software package</a></span>] 
+Buchhorn, K., Santos-Fernandez, E.,  Mengersen, K., and **Salomone, R.**. *Graph Neural Network-Based Anomaly Detection for River Network Systems*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2304.09367.pdf">arXiv</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/KatieBuc/gnnad">software package</a></span>] 
 
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv</a></span>]
 
@@ -22,7 +22,8 @@ Wang, X., Jenner, A.L., **Salomone, R.**, Drovandi, C. , *Calibration of a Voron
 ## Publications
 Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Jenner, A., Mayfield, H.J., McGree, J.M., Mengersen, K., Price, A., **Salomone, R**., Santos-Fernández, E., Vercelloni, E., and Wang, X. (2023), *Being Bayesian in the 2020s: opportunities and challenges in the practice of modern applied Bayesian statistics*.  <span style="color: #000080;">Philosophical Transactions of the Royal Society A. </span> Published Online. <span style="color: #800080;"><span style="color: #000000;">[</span><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0156">Read Online</a></span><span style="color: #000000;">]</span></span>
 
-Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. <span style="color: #000080;">26th International Conference on Artificial Intelligence and Statistics (AISTATS)</span>.  Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">Preprint</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>]
+Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. <span style="color: #000080;">26th International Conference on Artificial Intelligence and Statistics (AISTATS)</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2210.12572.pdf">arXiv</a></span><a href="https://arxiv.org/pdf/2210.12572.pdf"></a>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/daviesl/trjp">code</a></span>]
+
 
 Sutton, M. , **Salomone, R.**, Chevallier, A., and Fearnhead, P. (2022), *Continuously-Tempered PDMP Samplers*.  <span style="color: #000080;">Neural Information Processing Systems</span> (<span style="color: #000080;">NeuRIPS</span>)<span style="color: #000080;">, 2022</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://openreview.net/pdf?id=RHa77BXv6k">Paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/53895.png?t=1669522892.1515965">Poster</a></span>]
 
@@ -37,7 +38,7 @@ Hodgkinson, L., **Salomone, R.** ,  and Roosta, F. (2021),  *Implicit Langevin 
 
 Botev, Z.I., **Salomone, R.**, Mackinlay, D. (2019), *Fast and accurate computation of the distribution of sums of dependent log-normals*,  <span style="color: #000080;"> Annals of Operations Research</span> 280 (1), 19-46. [<a href="http://em.rdcu.be/wf/click?upn=lMZy1lernSJ7apc5DgYM8XPvDLtzxBOsgJ-2FnnYvoNXA-3D_2-2ByApDjSZoVqoI98JBevZxssm-2FD1Z8SDj3L6WtiRiwicw63AS-2FH8OWTqgRn0xyTuHBCWzk2l-2BVezvBaamD4eD1LocNz5y7JCSBi3NwjTPIJqACLrbskzKLrOfZVn8Dyvm84k6VUb-2Bt0HBhSfh5KTP2eGmAdOYqRVTVE4eBe2XcXl16q-2Fs7iXt13zJxw6OeQbyjdcqvVTjEvVsG0Fr6kmz4fOfXDyxzMWGqdpQwoY-2F0D8F8o8GZzCA29BxLo5gHh-2Fvfln6qYx0luQXGCY8KUTSw-3D-3D"><span style="color: #0000ff;">Read Online</span></a>]
 
-Laub, P.J.,**Salomone, R.**, Botev, Z.I. (2019), *Monte Carlo estimation of the density of the sum of dependent random variables*, <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.sciencedirect.com/science/article/pii/S0378475418303197">Read Online</a></span>] <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Pat-Laub/PushoutDensityEstimation">code</a></span>]
+Laub, P.J.,**Salomone, R.**, Botev, Z.I. (2019), *Monte Carlo estimation of the density of the sum of dependent random variables*, <span style="color: #000080;">Mathematics and Computers in Simulation</span> 161, 23-31.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.sciencedirect.com/science/article/pii/S0378475418303197">Read Online</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Pat-Laub/PushoutDensityEstimation">code</a></span>]
 
 
 
