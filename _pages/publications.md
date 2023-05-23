@@ -32,14 +32,16 @@ Sutton, M. , **Salomone, R.**, Chevallier, A., and Fearnhead, P. (2022), *Contin
 https://proceedings.neurips.cc/paper_files/paper/2022/file/b5b939436789f76f08b9d0da5e81af7c-Supplemental-Conference.zip">code</a></span>] 
 
 
-
 Villani, M., Quiroz, M., Kohn, R., and **Salomone, R.** (2022), *Spectral Subsampling MCMC for Stationary Multivariate Time Series with an Application to Vector ARTFIMA Processes*. <span style="color:#000080;">Econometrics and Statistics</span>.[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.sciencedirect.com/science/article/pii/S245230622200106X?via%3Dihub">paper</a></span>]
 
 
 Hodgkinson, L., **Salomone, R.** ,  and Roosta, F. (2021),  *Implicit Langevin Algorithms for Sampling From Log-concave Densities*, <span style="color: #000080;">Journal of Machine Learning Research</span> (<span style="color: #000080;">JMLR</span>) 22: 1-30. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://jmlr.org/papers/volume22/19-292/19-292.pdf">paper</a></span>]
 
 
-**Salomone R.**, Quiroz, M., Kohn, R., Villani, M., and Tran, M.N. (2020), <i>Spectral Subsampling MCMC for  </i><i>Stationary Time Series,  </i>Proceedings of the <span style="color: #000080;">International Conference on Machine Learning</span> (<span style="color: #000080;">ICML</span>) <span style="color: #000080;">2020</span><i>. </i> [<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://proceedings.mlr.press/v119/salomone20a/salomone20a.pdf">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://icml.cc/virtual/2020/poster/6744">ICML short talk video</a></span>]
+**Salomone R.**, Quiroz, M., Kohn, R., Villani, M., and Tran, M.N. (2020), <i>Spectral Subsampling MCMC for  </i><i>Stationary Time Series,  </i>Proceedings of the <span style="color: #000080;">International Conference on Machine Learning</span> (<span style="color: #000080;">ICML</span>) <span style="color: #000080;">2020</span><i>. </i> [<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://proceedings.mlr.press/v119/salomone20a/salomone20a.pdf">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://icml.cc/virtual/2020/poster/6744">ICML short talk video</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/robsalomone/SpectralSubsamplingMCMC">code</a></span>]
+
+
+
 
 Botev, Z.I., **Salomone, R.**, Mackinlay, D. (2019), *Fast and accurate computation of the distribution of sums of dependent log-normals*,  <span style="color: #000080;"> Annals of Operations Research</span> 280 (1), 19-46. [<a href="http://em.rdcu.be/wf/click?upn=lMZy1lernSJ7apc5DgYM8XPvDLtzxBOsgJ-2FnnYvoNXA-3D_2-2ByApDjSZoVqoI98JBevZxssm-2FD1Z8SDj3L6WtiRiwicw63AS-2FH8OWTqgRn0xyTuHBCWzk2l-2BVezvBaamD4eD1LocNz5y7JCSBi3NwjTPIJqACLrbskzKLrOfZVn8Dyvm84k6VUb-2Bt0HBhSfh5KTP2eGmAdOYqRVTVE4eBe2XcXl16q-2Fs7iXt13zJxw6OeQbyjdcqvVTjEvVsG0Fr6kmz4fOfXDyxzMWGqdpQwoY-2F0D8F8o8GZzCA29BxLo5gHh-2Fvfln6qYx0luQXGCY8KUTSw-3D-3D"><span style="color: #0000ff;">paper</span></a>]
 
