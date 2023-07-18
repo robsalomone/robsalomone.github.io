@@ -7,6 +7,9 @@ author_profile: true
 
 
 ## Preprints
+
+Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *The Interpolating Information Criterion for Overparameterized Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.07785.pdf">arXiv</a></span>]
+
 Buchhorn, K., Santos-Fernandez, E.,  Mengersen, K., and **Salomone, R.**. *Graph Neural Network-Based Anomaly Detection for River Network Systems*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2304.09367.pdf">arXiv</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/KatieBuc/gnnad">software package</a></span>] 
 
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv</a></span>]
