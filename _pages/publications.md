@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ## Preprints
 
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Deep Generative Models, Synthetic Tabular Data, and Differential Privacy: An Overview and Synthesis*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.15424.pdf">arXiv</a></span>]
