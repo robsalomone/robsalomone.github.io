@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Robert Salomone"
   avatar           : "bio-photo.jpg"
-  bio              : "Senior Research Fellow, QUT Centre for Data Science"
-  location         : "Brisbane, Australia"
+  bio              : 
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=35EmAJwAAAAJ&hl=en"
