@@ -11,11 +11,11 @@ redirect_from:
 ## News 
 
 *  Dec. 2023 -  The long-awaited (several years in the making) new version of our *Nested Sampling via Sequential Monte Carlo* paper is now available on [arXiv](https://t.co/8r4UubU23o).
-*  Dec. 2023 - I was awarded a top $8\%$ reviewer award for NeurIPS 2023. 
+*  Nov. 2023 - I was awarded a top (8%) reviewer award for NeurIPS 2023. 
 
 
 ## Professional History
-*As of November 2023, I have departed academia for a quantitative research role in the private sector.* 
+*As of November 2023, I have departed academia for a role in the private sector.* 
 
 * **Senior Research Fellow** (03/22-11/23) - Queensland University of Technology (QUT), Centre for Data Science (School of Computer Science)
 * **Research Fellow** (11/20-03/22) - Queensland University of Technology (QUT), Centre for Data Science (School of Mathematical Sciences)
