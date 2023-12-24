@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
+
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Deep Generative Models, Synthetic Tabular Data, and Differential Privacy: An Overview and Synthesis*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.15424.pdf">arXiv</a></span>]
 
 Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *The Interpolating Information Criterion for Overparameterized Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.07785.pdf">arXiv</a></span>]
@@ -16,8 +18,6 @@ Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inferen
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
 
 Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv</a></span>] 
-
-**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/1805.03924">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
 
 Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2022.09.13.507714v4">bioarXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
 
