@@ -6,7 +6,7 @@ author_profile: true
 ---
 <img src="https://raw.githubusercontent.com/robsalomone/robsalomone.github.io/master/_pages/L4P2.png" width="400" align = "right"/>
 
-Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in 2021. 
+Here are materials for a **Deep Probabilistic Models** mini course, which I developed and taught at the Australian Mathematical Sciences Institute (AMSI) Winter School in June, 2021. 
 This is an annual Winter School attended by graduate students, early career researchers, and people from industry.
 
 The content was quite well-received so I have made all the lecture slide and tutorial materials available for the general public who may also find them interesting. The material consists of approximately eight 50 minute lectures and two one-hour tutorials (practicals).  (with examples implemented in PyTorch and Pyro).
@@ -53,5 +53,3 @@ The material and delivery was very well recieved. Here are some replies from the
 > “Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”
 
 > “Rob Salomone was my favourite speaker because he had the best energy when presenting. He also provided astute mathematical and statistical insights into neural networks, and this is a topic that I was very interested to learn about. I also greatly enjoyed his tutorials, which were very practical."
-
-> “Dr Robert Salomone is my favourite lecturer. His erudition and passion attracted me.”
