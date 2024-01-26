@@ -27,7 +27,7 @@ Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M.
 
 
 
-Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. Journal of Mathematical Biology. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2022.09.13.507714v4">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
+Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. <span style="color: #000080;"> Journal of Mathematical Biology</span>. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2022.09.13.507714v4">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
 
 Buchhorn, K., Santos-Fernandez, E.,  Mengersen, K., and **Salomone, R.**. *Graph Neural Network-Based Anomaly Detection for River Network Systems*. (2023),  <span style="color: #000080;">F1000 Research</span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://f1000research.com/articles/12-991/v1">paper</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/KatieBuc/gnnad">software package</a></span>] 
 
