@@ -6,8 +6,8 @@ main:
   # - title: "Projects"
   #   url: /projects/ 
 
-  # - title: "Deep Probabilistic Models (Course)"
-  #   url: /AMSIcourse/  
+  - title: "Deep Probabilistic Models (Course)"
+    url: /AMSIcourse/
 
   # - title: "Talks"
   #   url: /talks/       
