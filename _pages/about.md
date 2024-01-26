@@ -10,8 +10,9 @@ redirect_from:
 
 ## News 
 
+* Jan. 2023 - Our paper *Structured Variational Approximations with Skew Normal Decomposable Graphical Models* has been accepted for publication to the Journal of Computational and Graphical Statistics (JCGS). 
 *  Dec. 2023 -  The long-awaited (several years in the making) new version of our *Nested Sampling via Sequential Monte Carlo* paper is now available on [arXiv](https://t.co/8r4UubU23o).
-*  Nov. 2023 - I was awarded a top (8%) reviewer award for NeurIPS 2023. 
+*  Nov. 2023 - I was awarded a top reviewer award for NeurIPS 2023. These are given to the top approx. 10% of paper reviewers, based on the feedback of the area chairs. 
 
 
 ## Professional History
