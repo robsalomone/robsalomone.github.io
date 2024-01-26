@@ -23,6 +23,9 @@ Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel 
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
 
 Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *A PAC-Bayesian Perspective on the Interpolating Information Criterion* (2023). <span style="color: #000080;">NeurIPS 2023</span> Workshop on Mathematics of Modern Machine Learning (M3L).
+[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2311.07013">preprint</a></span>]
+
+
 
 Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. Journal of Mathematical Biology. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2022.09.13.507714v4">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
 
