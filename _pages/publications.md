@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-**Salomone, R.**, South, L.F., A.M., Johansen, Drovandi, C.C., and Kroese, D.P., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
+**Salomone, R.**, South, L.F., Johansen, A.M., Drovandi, C.C., and Kroese, D.P., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
 
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Deep Generative Models, Synthetic Tabular Data, and Differential Privacy: An Overview and Synthesis*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.15424.pdf">arXiv</a></span>]
 
