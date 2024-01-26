@@ -20,9 +20,9 @@ Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel 
 
 
 ## Publications
-**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. Journal of Computational and Graphical Statistics. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
+**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03348.pdf">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
 
-Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *A PAC-Bayesian Perspective on the Interpolating Information Criterion* (2023). NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (M3L).
+Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *A PAC-Bayesian Perspective on the Interpolating Information Criterion* (2023). <span style="color: #000080;">NeurIPS 2023</span> Workshop on Mathematics of Modern Machine Learning (M3L).
 
 Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. Journal of Mathematical Biology. Accepted. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2022.09.13.507714v4">preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
 
@@ -32,7 +32,7 @@ Bon, J.J., Bretherton, A., Buchhorn, K., Cramb, S., Drovandi, C., Hassan, C., Je
 
 Davies, L., **Salomone, R.**, Sutton, S., and Drovandi, C. (2023), *Transport Reversible Jump Proposals*. <span style="color: #000080;">26th International Conference on Artificial Intelligence and Statistics (AISTATS)</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://proceedings.mlr.press/v206/davies23a/davies23a.pdf">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/daviesl/trjp">code</a></span>]
 
-Sutton, M. , **Salomone, R.**, Chevallier, A., and Fearnhead, P. (2022), *Continuously-Tempered PDMP Samplers*.  <span style="color: #000080;">Neural Information Processing Systems</span> (<span style="color: #000080;">NeuRIPS</span>)<span style="color: #000080;">, 2022</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://openreview.net/pdf?id=RHa77BXv6k">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/53895.png?t=1669522892.1515965">poster</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="
+Sutton, M. , **Salomone, R.**, Chevallier, A., and Fearnhead, P. (2022), *Continuously-Tempered PDMP Samplers*.  <span style="color: #000080;">Neural Information Processing Systems</span> (<span style="color: #000080;">NeurIPS</span>)<span style="color: #000080;">, 2022</span>.   [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://openreview.net/pdf?id=RHa77BXv6k">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/53895.png?t=1669522892.1515965">poster</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="
 https://proceedings.neurips.cc/paper_files/paper/2022/file/b5b939436789f76f08b9d0da5e81af7c-Supplemental-Conference.zip">code</a></span>] 
 
 
