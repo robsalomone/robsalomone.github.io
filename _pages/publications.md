@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Preprints
-
 **Salomone, R.**, South, L.F., Johansen, A.M., Drovandi, C.C., and Kroese, D.P., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
 
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Deep Generative Models, Synthetic Tabular Data, and Differential Privacy: An Overview and Synthesis*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.15424.pdf">arXiv</a></span>]
@@ -17,6 +16,12 @@ Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inferen
 
 Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv</a></span>] 
 
+Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D., 
+*Leveraging uncertainty quantification to optimise CRISPR guide RNA selection*.
+[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2024/02/05/2024.02.01.578527.full.pdf">preprint</a></span>]
+
+Fast and scalable off-target assessment for CRISPR guide RNAs using partial matches
+Schmitz, C., Bradford, J., **Salomone, R.** , and Perrin, D. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2024.02.01.578509v1.full.pdf">preprint</a></span>]
 
 
 ## Publications
