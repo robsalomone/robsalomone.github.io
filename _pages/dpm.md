@@ -48,7 +48,7 @@ The material and delivery was very well recieved. Here are some replies from the
 
 > “My favourite speaker was Robert Salomone. Rob presented his take on deep latent variable models. He was masterful in linking together concepts between topics in his course"
 
-> "“Rob Salomone, what a mix of maths, teaching, jokes, energy and attitude.”
+> “Rob Salomone, what a mix of maths, teaching, jokes, energy and attitude.”
 
 > “Dr Robert Salomone is my favourite speaker because of his passionate, enthusiastic and encouraging teaching styles. I have never touched deep learning models before and which has been considered as one of top-trended but extremely difficult machine learning topics. His talks make lectures very interesting and easy to follow for someone like one. Really high quality!”
 
