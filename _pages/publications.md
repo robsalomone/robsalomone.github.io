@@ -23,7 +23,6 @@ Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D.,
 Fast and scalable off-target assessment for CRISPR guide RNAs using partial matches
 Schmitz, C., Bradford, J., **Salomone, R.** , and Perrin, D. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2024.02.01.578509v1.full.pdf">preprint</a></span>]
 
-
 ## Publications
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319159">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
 
