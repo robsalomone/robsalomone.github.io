@@ -10,7 +10,7 @@ redirect_from:
 
 ## News 
 
-* Jan. 2023
+* Jan. 2024
   * The revised version of our paper **Structured Variational Approximations with Skew Normal Decomposable Graphical Models** has been accepted for publication to the Journal of Computational and Graphical Statistics (JCGS). 
   * The revised version of our paper **Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation** has been accepted for publication in the Journal of Mathematical Biology.
 *  Dec. 2023 -  The long-awaited (several years in the making) new version of our *Nested Sampling via Sequential Monte Carlo* paper is now available on [arXiv](https://t.co/8r4UubU23o).
