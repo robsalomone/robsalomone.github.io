@@ -20,15 +20,17 @@ Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D.,
 *Leveraging uncertainty quantification to optimise CRISPR guide RNA selection*.
 [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2024/02/05/2024.02.01.578527.full.pdf">preprint</a></span>]
 
-Schmitz, C., Bradford, J., **Salomone, R.** , and Perrin, D., *Fast and scalable off-target assessment for CRISPR guide RNAs using partial matches* [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2024.02.01.578509v1.full.pdf">preprint</a></span>]
 
 ## Publications
-**Salomone, R.**, Yu, X., Nott, D., and Kohn, R., *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319159">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
+**Salomone, R.**, Yu, X., Nott, D., and Kohn, R. (2024). *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319159">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
+
+Schmitz, C., Bradford, J., **Salomone, R.** , and Perrin, D. (2024). *Fast and scalable off-target assessment for CRISPR guide RNAs using partial matches*, IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024, [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2024.02.01.578509v1.full.pdf">preprint</a></span>]
+
+Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. (2024) , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. <span style="color: #000080;"> Journal of Mathematical Biology</span>, 88:28.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10869399/pdf/285_2024_Article_2045.pdf">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
 
 Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *A PAC-Bayesian Perspective on the Interpolating Information Criterion* (2023). <span style="color: #000080;">NeurIPS 2023</span> Workshop on Mathematics of Modern Machine Learning (M3L).
 [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://openreview.net/forum?id=zrw68dPsdt">paper</a></span>]
 
-Wang, X., Jenner, A.L., **Salomone, R.**, Warne, D.J., Drovandi, C. , *Calibration of Agent Based Models for Monophasic and Biphasic Tumour Growth using Approximate Bayesian Computation*. <span style="color: #000080;"> Journal of Mathematical Biology</span>, 88:28.  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10869399/pdf/285_2024_Article_2045.pdf">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/john-wang1015/Calibration_BVCBM">code</a></span>]
 
 Buchhorn, K., Santos-Fernandez, E.,  Mengersen, K., and **Salomone, R.**. *Graph Neural Network-Based Anomaly Detection for River Network Systems*. (2023),  <span style="color: #000080;">F1000 Research</span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://f1000research.com/articles/12-991/v1">paper</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/KatieBuc/gnnad">software package</a></span>] 
 
