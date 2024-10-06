@@ -19,6 +19,10 @@ Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel 
 Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D., 
 *Leveraging uncertainty quantification to optimise CRISPR guide RNA selection*.
 [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2024/02/05/2024.02.01.578527.full.pdf">preprint</a></span>]
+[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/bmds-lab/CRISPR_DeepEnsemble
+">code</a></span>]
+[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/robsalomone/DeepRegressionEnsembles-CRISPRon"> deep regression ensembles implementaion</a></span>] 
+
 
 
 ## Publications
