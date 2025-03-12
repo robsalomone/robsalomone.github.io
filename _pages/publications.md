@@ -6,15 +6,14 @@ author_profile: true
 ---
 
 ## Preprints
-**Salomone, R.**, South, L.F., Johansen, A.M., Drovandi, C.C., and Kroese, D.P., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">arXiv</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
-
-Hassan, C., **Salomone, R.**, and Mengersen, K., *Deep Generative Models, Synthetic Tabular Data, and Differential Privacy: An Overview and Synthesis*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.15424.pdf">arXiv</a></span>]
 
 Hodgkinson, L., van der Heide, C., **Salomone, R.**, Roosta, F., and Mahoney, M., *The Interpolating Information Criterion for Overparameterized Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.07785.pdf">arXiv</a></span>]
 
+Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv</a></span>] 
+
 Hassan, C., **Salomone, R.**, and Mengersen, K., *Federated Variational Inference Methods for Structured Latent Variable Models*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2302.03314.pdf">arXiv</a></span>]
 
-Hodgkinson, L., **Salomone, R.**, and Roosta, F., *The reproducing Stein kernel approach for post-hoc corrected sampling*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/abs/2001.09266">arXiv</a></span>] 
+Hassan, C., **Salomone, R.**, and Mengersen, K., *Deep Generative Models, Synthetic Tabular Data, and Differential Privacy: An Overview and Synthesis*. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://arxiv.org/pdf/2307.15424.pdf">arXiv</a></span>]
 
 Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D., 
 *Leveraging uncertainty quantification to optimise CRISPR guide RNA selection*.
@@ -24,8 +23,9 @@ Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D.,
 [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/robsalomone/DeepRegressionEnsembles-CRISPRon">my deep GLM ensembles implementation</a></span>] 
 
 
-
 ## Publications
+**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P., and Johansen, A.M., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. <span style="color: #000080;">Journal of the Royal Statistical Society, Series B (Methodology). Accepted for publication. </span>[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">Preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
+
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R. (2024). *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319159">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
 
 Schmitz, C., Bradford, J., **Salomone, R.** , and Perrin, D. (2024). *Fast and scalable off-target assessment for CRISPR guide RNAs using partial matches*, IEEE  <span style="color: #000080;"> International Conference on Bioinformatics and Biomedicine (BIBM) </span> [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/10.1101/2024.02.01.578509v1.full.pdf">preprint</a></span>]  [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/bmds-lab/CracklingPlusPlus">code</a></span>] 
