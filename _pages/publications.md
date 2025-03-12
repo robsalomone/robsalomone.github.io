@@ -24,7 +24,7 @@ Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D.,
 
 
 ## Publications
-**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P., and Johansen, A.M., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. <span style="color: #000080;">Journal of the Royal Statistical Society, Series B (Methodology). Accepted for publication. </span>[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">Preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
+**Salomone, R.**, South, L.F., Drovandi, C.C., and Kroese, D.P., and Johansen, A.M., *Unbiased and Consistent Nested Sampling via Sequential Monte Carlo*. <span style="color: #000080;">Journal of the Royal Statistical Society, Series B (Methodology). </span> Accepted for publication. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://t.co/8r4UubU23o">Preprint</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/LeahPrice/SMC-NS">code</a></span>]
 
 **Salomone, R.**, Yu, X., Nott, D., and Kohn, R. (2024). *Structured Variational Approximations with Skew Normal Decomposable Graphical Models*. <span style="color: #000080;">Journal of Computational and Graphical Statistics </span>. [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319159">paper</a></span>] [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Yu-Xuejun/SDGM">code</a></span>] 
 
