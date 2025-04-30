@@ -20,7 +20,7 @@ Schmitz, C.,  Bradford, J., **Salomone, R.**, and Perrin, D.,
 [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.biorxiv.org/content/biorxiv/early/2024/02/05/2024.02.01.578527.full.pdf">preprint</a></span>]
 [<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/bmds-lab/CRISPR_DeepEnsemble
 ">code</a></span>]
-[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/robsalomone/DeepRegressionEnsembles-CRISPRon">my deep GLM ensembles implementation</a></span>]
+[<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/robsalomone/DeepRegressionEnsembles-CRISPRon">my deep distributional ensembles implementation</a></span>]
 
 
 ## Publications
